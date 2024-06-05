@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978413005637",
+    "project_id": "calender-app-d8f8a",
+    "storage_bucket": "calender-app-d8f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978413005637:android:884fdd9de94f0712926c2c",
+        "android_client_info": {
+          "package_name": "com.popupbits.flutter_events_2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe46t5oHrzVRtPv0ElgO4Lg6HJRgLwwZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
